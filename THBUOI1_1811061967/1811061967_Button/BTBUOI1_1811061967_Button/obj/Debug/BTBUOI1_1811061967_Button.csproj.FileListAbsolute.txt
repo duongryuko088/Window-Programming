@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\BTBUOI1_1811061967_Button\BTBUOI1_1811061967_Button\bin\Debug\BTBUOI1_1811061967_Button.exe.config
+C:\Users\DELL\source\repos\BTBUOI1_1811061967_Button\BTBUOI1_1811061967_Button\bin\Debug\BTBUOI1_1811061967_Button.exe
+C:\Users\DELL\source\repos\BTBUOI1_1811061967_Button\BTBUOI1_1811061967_Button\bin\Debug\BTBUOI1_1811061967_Button.pdb
+C:\Users\DELL\source\repos\BTBUOI1_1811061967_Button\BTBUOI1_1811061967_Button\obj\Debug\BTBUOI1_1811061967_Button.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\BTBUOI1_1811061967_Button\BTBUOI1_1811061967_Button\obj\Debug\BTBUOI1_1811061967_Button.Form1.resources
+C:\Users\DELL\source\repos\BTBUOI1_1811061967_Button\BTBUOI1_1811061967_Button\obj\Debug\BTBUOI1_1811061967_Button.Properties.Resources.resources
+C:\Users\DELL\source\repos\BTBUOI1_1811061967_Button\BTBUOI1_1811061967_Button\obj\Debug\BTBUOI1_1811061967_Button.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\BTBUOI1_1811061967_Button\BTBUOI1_1811061967_Button\obj\Debug\BTBUOI1_1811061967_Button.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BTBUOI1_1811061967_Button\BTBUOI1_1811061967_Button\obj\Debug\BTBUOI1_1811061967_Button.exe
+C:\Users\DELL\source\repos\BTBUOI1_1811061967_Button\BTBUOI1_1811061967_Button\obj\Debug\BTBUOI1_1811061967_Button.pdb

@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\1811061967_BTBUOI1_TextBox\1811061967_BTBUOI1_TextBox\bin\Debug\1811061967_BTBUOI1_TextBox.exe.config
+C:\Users\DELL\source\repos\1811061967_BTBUOI1_TextBox\1811061967_BTBUOI1_TextBox\bin\Debug\1811061967_BTBUOI1_TextBox.exe
+C:\Users\DELL\source\repos\1811061967_BTBUOI1_TextBox\1811061967_BTBUOI1_TextBox\bin\Debug\1811061967_BTBUOI1_TextBox.pdb
+C:\Users\DELL\source\repos\1811061967_BTBUOI1_TextBox\1811061967_BTBUOI1_TextBox\obj\Debug\1811061967_BTBUOI1_TextBox.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1811061967_BTBUOI1_TextBox\1811061967_BTBUOI1_TextBox\obj\Debug\_1811061967_BTBUOI1_TextBox.Form1.resources
+C:\Users\DELL\source\repos\1811061967_BTBUOI1_TextBox\1811061967_BTBUOI1_TextBox\obj\Debug\_1811061967_BTBUOI1_TextBox.Properties.Resources.resources
+C:\Users\DELL\source\repos\1811061967_BTBUOI1_TextBox\1811061967_BTBUOI1_TextBox\obj\Debug\1811061967_BTBUOI1_TextBox.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\1811061967_BTBUOI1_TextBox\1811061967_BTBUOI1_TextBox\obj\Debug\1811061967_BTBUOI1_TextBox.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1811061967_BTBUOI1_TextBox\1811061967_BTBUOI1_TextBox\obj\Debug\1811061967_BTBUOI1_TextBox.exe
+C:\Users\DELL\source\repos\1811061967_BTBUOI1_TextBox\1811061967_BTBUOI1_TextBox\obj\Debug\1811061967_BTBUOI1_TextBox.pdb

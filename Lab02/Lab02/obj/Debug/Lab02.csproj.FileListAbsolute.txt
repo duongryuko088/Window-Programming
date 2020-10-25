@@ -1,0 +1,10 @@
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab02\Lab02\bin\Debug\Lab02.exe.config
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab02\Lab02\bin\Debug\Lab02.exe
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab02\Lab02\bin\Debug\Lab02.pdb
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab02\Lab02\obj\Debug\Lab02.csprojAssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab02\Lab02\obj\Debug\Lab02.Form1.resources
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab02\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab02\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab02\Lab02\obj\Debug\Lab02.exe
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab02\Lab02\obj\Debug\Lab02.pdb

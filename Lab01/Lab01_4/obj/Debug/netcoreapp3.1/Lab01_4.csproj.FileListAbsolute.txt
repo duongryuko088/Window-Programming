@@ -1,0 +1,13 @@
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab01\Lab01_4\bin\Debug\netcoreapp3.1\Lab01_4.exe
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab01\Lab01_4\bin\Debug\netcoreapp3.1\Lab01_4.deps.json
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab01\Lab01_4\bin\Debug\netcoreapp3.1\Lab01_4.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab01\Lab01_4\bin\Debug\netcoreapp3.1\Lab01_4.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab01\Lab01_4\bin\Debug\netcoreapp3.1\Lab01_4.dll
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab01\Lab01_4\bin\Debug\netcoreapp3.1\Lab01_4.pdb
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab01\Lab01_4\obj\Debug\netcoreapp3.1\Lab01_4.csprojAssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab01\Lab01_4\obj\Debug\netcoreapp3.1\Lab01_4.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab01\Lab01_4\obj\Debug\netcoreapp3.1\Lab01_4.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab01\Lab01_4\obj\Debug\netcoreapp3.1\Lab01_4.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab01\Lab01_4\obj\Debug\netcoreapp3.1\Lab01_4.dll
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab01\Lab01_4\obj\Debug\netcoreapp3.1\Lab01_4.pdb
+C:\Users\DELL\OneDrive\Desktop\WindowProgramming\Lab01\Lab01_4\obj\Debug\netcoreapp3.1\Lab01_4.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\1811061967_CheckBox\1811061967_CheckBox\bin\Debug\1811061967_CheckBox.exe.config
+C:\Users\DELL\source\repos\1811061967_CheckBox\1811061967_CheckBox\bin\Debug\1811061967_CheckBox.exe
+C:\Users\DELL\source\repos\1811061967_CheckBox\1811061967_CheckBox\bin\Debug\1811061967_CheckBox.pdb
+C:\Users\DELL\source\repos\1811061967_CheckBox\1811061967_CheckBox\obj\Debug\1811061967_CheckBox.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1811061967_CheckBox\1811061967_CheckBox\obj\Debug\_1811061967_CheckBox.Form1.resources
+C:\Users\DELL\source\repos\1811061967_CheckBox\1811061967_CheckBox\obj\Debug\_1811061967_CheckBox.Properties.Resources.resources
+C:\Users\DELL\source\repos\1811061967_CheckBox\1811061967_CheckBox\obj\Debug\1811061967_CheckBox.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\1811061967_CheckBox\1811061967_CheckBox\obj\Debug\1811061967_CheckBox.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1811061967_CheckBox\1811061967_CheckBox\obj\Debug\1811061967_CheckBox.exe
+C:\Users\DELL\source\repos\1811061967_CheckBox\1811061967_CheckBox\obj\Debug\1811061967_CheckBox.pdb

@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\1811061967_MessageBox\1811061967_MessageBox\bin\Debug\1811061967_MessageBox.exe.config
+C:\Users\DELL\source\repos\1811061967_MessageBox\1811061967_MessageBox\bin\Debug\1811061967_MessageBox.exe
+C:\Users\DELL\source\repos\1811061967_MessageBox\1811061967_MessageBox\bin\Debug\1811061967_MessageBox.pdb
+C:\Users\DELL\source\repos\1811061967_MessageBox\1811061967_MessageBox\obj\Debug\1811061967_MessageBox.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1811061967_MessageBox\1811061967_MessageBox\obj\Debug\_1811061967_MessageBox.Form1.resources
+C:\Users\DELL\source\repos\1811061967_MessageBox\1811061967_MessageBox\obj\Debug\_1811061967_MessageBox.Properties.Resources.resources
+C:\Users\DELL\source\repos\1811061967_MessageBox\1811061967_MessageBox\obj\Debug\1811061967_MessageBox.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\1811061967_MessageBox\1811061967_MessageBox\obj\Debug\1811061967_MessageBox.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1811061967_MessageBox\1811061967_MessageBox\obj\Debug\1811061967_MessageBox.exe
+C:\Users\DELL\source\repos\1811061967_MessageBox\1811061967_MessageBox\obj\Debug\1811061967_MessageBox.pdb
